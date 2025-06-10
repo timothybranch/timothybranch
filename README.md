@@ -20,4 +20,4 @@ Most importantly, I want to showcase that I care about learning and implementing
 
 Please see the project @project@ and the files @ files @ for the most polished examples of my work. I will continue to work on this and other projects, due as of now (June 10, 2025) I have a PhD dissertation deadline that I need to hit. If you have any questions about this project or notice issues, please feel free to contact me.
 
-I owe credit to my software developer friends who were generous enough to review my code and give me insights on ways I could improve it. These friends include: Joey L., Perrin W. and A.N.W.
+I owe credit to my friends with industry experience who were generous enough to review my code and give me insights on ways I could improve it. These friends include: Joey L., Perrin W. and A.N.W.
