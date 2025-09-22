@@ -4,17 +4,21 @@ I am an experimental physicist at the UBC Blusson Quantum Matter Institute, wher
 
 I use broadband bolometric microwave spectroscopy to study the electromagnetic skin effect response in pristine single-crystal ReO<sub>3</sub> at cryogenic temperatures, to further our understanding of electrical conductivity in low-loss and anisotropic materials.
 
-Accomplishments (Not extensive):
+**Update (Sept 22, 2025)**: I've been submitting job applications lately, so if you are visiting from my resume or LinkedIn, hello! I'm currently focused on writing research articles on my PhD projects, so I am not prioritizing keeping this GitHub updated. As I have more free time I'll revisit this profile to update the existing projects and work on some personal projects!
+
+**Accomplishments (Not extensive):**
 
 - Designed and implemented systematic experimental procedures for sample preparation and characterization, with documented workflows that enabled both consistent sample measurements and rapid troubleshooting of the experimental apparatus.
 
-- Led international multi-team experiment to characterize the relationship between structural defects and electronic properties of ReO3, collaborating with beamline scientists in real-time to ensure key outcomes were met despite challenging experimental conditions. Awarded beamtime was valued at ∼CA$4800.
+- Led international multi-team experiment to characterize the relationship between structural defects and electronic properties of material, collaborating with beamline scientists in real-time to ensure key outcomes were met despite challenging experimental conditions. Awarded beamtime was valued at ∼CA$4800.
 
-- Developed automated data analysis framework combining electromagnetic simulations in COMSOL and Python scripting, improving experimental interpretation accuracy by ~20%, minimizing systematic sources of error, and enabling rapid sample quality validation and iteration of experimental procedures.
+- Developed automated data analysis framework combining electromagnetic simulations in COMSOL and Python scripting, improving experimental interpretation accuracy by ~20% while reducing per-dataset processing time by >50% across 50 experimental runs of 13 material samples. Changes minimized systematic sources of error and enabled rapid sample quality validation.
 
-I am defending my dissertation this summer (2025) and am actively seeking research and engineering positions in industry. I'm especially interested in the fields of quantum computing, semiconductor engineering, radio-frequency engineering, and other fields pushing the limits of our physics and engineering capabilities.
+- Managed entire 4-year PhD research timeline using Gantt charts and Lab Scrum methodologies, enabling a productive research direction to be maintained during periods of high-frequency experimental measurements, and the successful completion of research milestones in time with major conference presentations.
 
-Why do I have a GitHub portfolio even though I am trained as a physicist?
+I am defending my dissertation this fall (2025) and am actively seeking research and engineering positions in industry. I'm especially interested in the fields of quantum computing, semiconductor engineering, biomedical engineering, data science, radio-frequency engineering, and other fields pushing the limits of our physics and engineering capabilities.
+
+**Why do I have a GitHub portfolio even though I am trained as a physicist?**
 
 Most importantly, I want to showcase that I care about learning and implementing the best practices in fields outside of my own, such as software development, data visualization, and technical communication. This is a trait I developed in engineering physics, and still strive to develop and improve. In addition to this, I hope that the tools I develop will be helpful to others, such as scientists in my field of research. Finally, I think this work is a good example of my ability to produce clear and thorough documentation, which was developed through years of practice.
 
